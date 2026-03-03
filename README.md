@@ -1,2 +1,2 @@
-# Fullstack_Portif-lio_2026
+# Fullstack_Portifólio_2026
 Portifólio 2026
